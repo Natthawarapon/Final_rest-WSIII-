@@ -4,7 +4,6 @@ var db = pgp('postgres://mqvvplpgwkwaww:bbe283a5d4ce86d696c0794bfca51f66630f8553
 module.exports = {
     getAllCategories
    
-
 };
 
 function getAllCategories(req, res) {
